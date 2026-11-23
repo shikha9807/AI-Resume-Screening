@@ -110,7 +110,7 @@ Modify the theme in `tailwind.config.js`.
 Configure model parameters in `lib/resume-analyzer.ts`.
 
 ## 🤝 Contributing
-**Backend Development:** Built and maintained by Shikha (`shikha9807`).
+- **Backend & AI Processing:** Built and maintained by Shikha (`shikha9807`).
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
